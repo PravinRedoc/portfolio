@@ -22,7 +22,7 @@
 * The model uses L2 regularization for generalizing model to avoid overfit/underfit
 * The coeffients of the model is compared to Sklearn SGD classifer to prove the implementation, difference in the order of 10^-3
 
-# [Research: Application of Bootstrap samples in Random forest and implement Bagging](https://github.com/PravinRedoc/Research/blob/main/Bootstrap_RandomForest.ipynb) 
+# [Research: Application of Bootstrap samples in Random forest(https://github.com/PravinRedoc/Research/blob/main/Bootstrap_RandomForest.ipynb) 
 * Radomly create samples of data from the Boston housing dataset
 * Sampled multiple features randomly as part Bagging.
 * Computed the OOB score and CI and MSE to evaluate the aggregated model.
