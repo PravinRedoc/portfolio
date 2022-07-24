@@ -12,7 +12,7 @@
 * Deeper understanding of how all these metrics work internally
 * Comparision with sklearn metrics
 
-# [Research: Implementation of K-Fold cross validation with RandomSearchCV from scratch using K-NN Classifier](https://github.com/PravinRedoc/Research/blob/main/K-Fold-KNN.ipynb) 
+# [Research: Implementation of K-Fold cross validation with RandomSearchCV from scratch](https://github.com/PravinRedoc/Research/blob/main/K-Fold-KNN.ipynb) 
 * Implementaion of K-Fold cross validation using RandomSearchCV(Randomization using uniform distribution) from scratch
 * K-NN classifer to build a model with cross validation
 * Comparision with sklearn and visualizing the decision boundary.
