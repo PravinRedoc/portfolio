@@ -7,7 +7,7 @@
 * Comparision between actual library methods and implementation from scratch.
 
 
-# [Research: Implementation of major Performation metrics used for Model Evaluation](https://github.com/PravinRedoc/Research/blob/main/Performance_metrics_Implementation.ipynb) 
+# [Research: Implementation of major Performance metrics used for Model Evaluation](https://github.com/PravinRedoc/Research/blob/main/Performance_metrics_Implementation.ipynb) 
 * Implementaion of all the major and industry standard preformance metrics used to evaluate models such as confusion matrix, F1 score,AUC Score,MSE, MAPE, R^2
 * Deeper understanding of how all these metrics work internally
 * Comparision with sklearn metrics
