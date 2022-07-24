@@ -1,6 +1,6 @@
 # My Data  Scientific Work
 
-# [Research: Implementaion of TFIDF vectorizer from scratch](https://github.com/PravinRedoc/Research/blob/main/TFIDF_Implementation.ipynb)
+# [Research: Implementation of TFIDF vectorizer from scratch](https://github.com/PravinRedoc/Research/blob/main/TFIDF_Implementation.ipynb)
 * Term Frequency/Inverse Document Frequency is the most popular text vectorization technique widely used in the text based analytics industry
 * Implemented TFIDF vectorizer from scratch using numpy and pandas libraries.
 * Deeper and Simple understanding of how TFIDF works internally.
