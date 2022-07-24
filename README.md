@@ -27,9 +27,9 @@
 * Sampled multiple features randomly as part Bagging.
 * Computed the OOB score and CI and MSE to evaluate the aggregated model.
 
-# [Research: Analysing the Behavior of Linear Models and Implementaion of Decision fuction in Linear SVM classifier ](https://github.com/PravinRedoc/Research/tree/main/Linear%20models) 
+# [Research: Analysing the Behavior of Linear Models and Implementaion of Decision function in Linear SVM classifier ](https://github.com/PravinRedoc/Research/tree/main/Linear%20models) 
 * Implementaion of Decision function of SVM from scratch
-* Compare decision fuction from sklearn and  compare the manual implementation.
+* Compare decision function from sklearn and  compare the manual implementation.
 * Compare various regularization parameters and its impact on model performance
 * Analyse the impact of outlier with changing regularization parameters in linear models
 
