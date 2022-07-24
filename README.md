@@ -20,7 +20,7 @@
 # [Research: Implementation of SGD Classifier with Logloss and L2 regularization Using SGD without using sklearn ](https://github.com/PravinRedoc/Research/blob/main/SGD_imlplementation_Logloss.ipynb) 
 * Implementaion of Stochastic Gradient Descent Classifier that optimizes logloss
 * The model uses L2 regularization for generalizing model to avoid overfit/underfit
-* The coeffients of the model is compared to Sklearn SGD classifer to prove the implementation with a different in order of 10^-3
+* The coeffients of the model is compared to Sklearn SGD classifer to prove the implementation, difference in the order of 10^-3
 
 
 
