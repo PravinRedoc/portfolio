@@ -34,6 +34,17 @@
 * Analyse the impact of outlier with changing regularization parameters in linear models
 
 
+# [Case Study: In-vehicle coupon recommendation - Predicting whether a person will accept the coupon recommended to him in different driving scenarios](https://github.com/PravinRedoc/Predictive-Analytics/blob/main/In_coupon_recommendation.ipynb) 
+* The [dataset](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation) was obtained from UCI machine learning repository for Analysis
+* The data was preprocessed and thorough analysis of the factors affecting the decision of the driver to accept the coupon was performed
+* Features were studied and most important features were factored in.
+* A range of machine learning models from Bayesian, Linear and Tree based Ensemble models were tuned using Cross validation and built
+* Feature Importance was analysed to understand the most valuable features in predicting the outcome.
+
+
+
+
+
 
 
 
