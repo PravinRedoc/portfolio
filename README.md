@@ -59,7 +59,7 @@
 * Multiple text features were further extracted/engineered using fuzzywuzzy and nltk libraries.
 * The effectiveness features extracted was examined by visualizing using dimensionality reduction technique such as T-SNE.
 * The data was loaded into an SQLite database for better accessibilty and convenience.
-* A range of machine learning models from Bayesian, Linear and Tree based Ensemble models were tuned using Cross validation and built and evaluated against a random model using logloss as the evaluation metric.
+* A range of machine learning models from Bayesian, Linear and Tree based Ensemble models were tuned using Cross validation were built and evaluated against a random model using logloss as the evaluation metric.
 
 
 
