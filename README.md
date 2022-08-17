@@ -41,6 +41,30 @@
 * As part of predictive analytics, a range of machine learning models from Bayesian, Linear and Tree based Ensemble models were tuned using Cross validation and built (python sklearn)
 * Feature Importance was analysed to understand the most valuable features in predicting the outcome.
 
+# [Case Study: Personalized Cancer Diagnosis - Classifying Clinically Actionable Genetic Mutations](https://github.com/PravinRedoc/Predictive-Analytics/blob/main/CancerDiagnosisPersonalized.ipynb) 
+* The [dataset](https://www.kaggle.com/c/msk-redefining-cancer-treatment/) was obtained from Kaggle in association with MSKCC
+* The data was preprocessed and made model read to perform classification of the given genetic variations/mutations based on evidence from text-based clinical literature.
+* NLP feature vectorization was performed using the nltk library for text features(Gene text)
+* Text features were encoded using one-hot and response coding and the model giving best hyper parameters were chosen
+* Various machine learning models were used such as Linear models(LR using SGD logloss and linear SVMs), Random Forest Classifier etc.
+* All the models were tuned using logloss as the evaluation metric.
+* The models were further examined using Confusion matrix, Precision and Recall matrices.
+* The best features were picked using various feature importance techniques and the validity of each feature(Gene text vectorized, Variation) across Training, test and CV was checked.
+* The model with best performance was chosen(Tuning).
+
+# [Case Study: Quora Question Pair Similarity - Predicting whether a question is duplicate of another question given a pair of questions](https://github.com/PravinRedoc/Quora_QPS) 
+* The [dataset](https://www.kaggle.com/c/quora-question-pairs) was obtained from Kaggle published by Quora.
+* The data cleaned using text preprocessing technique such as steming, lemmatazing etc.
+* Text features(Questions) were vectorized using GloVe vectors, one-hot encoding.
+* Multiple text features were further extracted/engineered using fuzzywuzzy and nltk libraries.
+* The effectiveness features extracted was examined by visualizing using dimensionality reduction technique such as T-SNE.
+* The data was loaded into an SQLite database for better accessibilty and convenience.
+* A range of machine learning models from Bayesian, Linear and Tree based Ensemble models were tuned using Cross validation and built and evaluated against a random model using logloss as the evaluation metric.
+
+
+
+
+
 
 
 
